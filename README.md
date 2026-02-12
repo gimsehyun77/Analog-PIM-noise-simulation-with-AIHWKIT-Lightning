@@ -1,0 +1,2 @@
+# Analog-PIM-noise-simulation-with-AIHWKIT-Lightning
+This repository includes fine-tuning of DistilGPT-2, analog noise injection using AIHWKIT Lightning, and graph-based visualization of performance degradation under analog non-idealities. All experiments are executed on a personal GPU server environment, enabling controlled and reproducible evaluation of analog PIM noise effects on language models.
